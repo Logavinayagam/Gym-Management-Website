@@ -110,3 +110,8 @@ This project is for educational purposes only and is free to use. Contributions 
 
 ### Contact
 For queries or suggestions, feel free to reach out!
+
+---
+
+### Site
+http://jrm-fitness.my-style.in/
