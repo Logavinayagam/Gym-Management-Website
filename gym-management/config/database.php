@@ -4,7 +4,7 @@ $host = 'localhost';
 $db   = 'gym_management'; // Change this to your database name
 $user = 'root';           // XAMPP default username is 'root'
 $pass = '';               // XAMPP default password is empty
-$port = '4306';           // Specify your MySQL port
+$port = '3306';           // Specify your MySQL port
 
 try {
     // Create a PDO instance with the correct port
